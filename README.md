@@ -18,3 +18,5 @@ This is a dataset from Maven's data playground that shows all missions and rocke
 After importing the dataset in SQL, I used the PARSENAME function to separate Location into individual columns: Address, City, and Country and updatng the table. Also removing any null values.
 
 <img width="1051" alt="Screenshot 2022-11-03 at 2 15 24 PM" src="https://user-images.githubusercontent.com/87345933/199802535-30de86e7-f6e1-4537-9693-80b4d8f6945b.png">
+
+
