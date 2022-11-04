@@ -20,3 +20,13 @@ After importing the dataset in SQL, I used the PARSENAME function to separate Lo
 <img width="1051" alt="Screenshot 2022-11-03 at 2 15 24 PM" src="https://user-images.githubusercontent.com/87345933/199802535-30de86e7-f6e1-4537-9693-80b4d8f6945b.png">
 
 
+# Exploration
+
+For the analysis I get insights about the rate success, total missions.
+
+Total missions launched by country.
+Difference between first-latest mission, first-now & latest-now in years.
+Fail and success rate globally, by country.
+Cost of the missions by country and company.
+
+<img width="1083" alt="Screenshot 2022-11-03 at 11 58 57 PM" src="https://user-images.githubusercontent.com/87345933/199882718-c0c49af5-f057-4cfa-b991-2ede9120fd24.png">
