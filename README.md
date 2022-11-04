@@ -1,4 +1,4 @@
-# SpaceLaunches
+# RocketLaunches
 
 This is a dataset from Maven's data playground that shows all missions and rockets launched from 1957 to 2022. 
 
